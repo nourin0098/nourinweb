@@ -99,7 +99,7 @@ html{
     background: url("images/nourin9.jpg") no-repeat top;
     height: 100vh;
     background-size: cover;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-position: top;
     color: #fff;
     min-height: 500px;
@@ -548,6 +548,9 @@ footer span a {
 
 footer span a:hover {
     text-decoration: underline;
+}
+.social-icon{
+    overflow: hidden;
 }
 
 .social-icon ul {
