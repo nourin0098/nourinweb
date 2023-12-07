@@ -143,6 +143,9 @@ html{
 section{
     padding: 100px 0;
 }
+.skills{
+    font-family: 'Roboto', sans-serif;
+}
 .about, .services, .skills .teams, .contact, footer{
     font-family: 'Roboto', sans-serif;
 }
